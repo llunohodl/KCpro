@@ -1,0 +1,18 @@
+#Ignore obj
+*.o
+*.pbd
+*.pbi*
+*.tmp
+*.map
+*.sim
+*.browse
+*.out
+*.ewt
+*.ewd
+*.eww
+*.dep
+*.lst
+*.cout
+*.xcl
+EWARM/settings/
+EWARM/_build/

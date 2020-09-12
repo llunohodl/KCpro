@@ -1,0 +1,3 @@
+[submodule "nRF5_SDK"]
+	path = nRF5_SDK
+	url = https://github.com/llunohodl/nRF5_SDK.git
